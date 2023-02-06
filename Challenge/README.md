@@ -11,7 +11,7 @@ The following image shows the three charts based on:
 - Bacteria Culture Per Sample
 - Belly Button Washing Frequency.
 
-![This is an image](https://i.pinimg.com/originals/e7/69/d5/e769d5c839bbc7ab6013f174c72e6602.png)
+![This is an image](https://i.pinimg.com/originals/2f/85/3e/2f853e31863634b8d1665b93d74db6c8.png)
 
 
 Thanks to this information, it is possible to locate the best candidate to develop the project.
